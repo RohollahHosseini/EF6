@@ -1,0 +1,3 @@
+اگر پایگاه داده از قبل داریم و بخواهیم از آن در پرويه استفاده کنیم این دستور را مینویسیم
+
+dotnet ef dbcontext scaffold "ConnectionString" Microsoft.EntityFramworkCore.SqlServer --project "ProjectName"

@@ -1,0 +1,12 @@
+نصب ابزار
+dotnet tool install --global dotnet-ef
+نصب پیشنیاز بر روی پروژه
+Install  Microsoft.EntityFrameworkCore.Design 
+ایجاد فایل 
+dotnet ef migrations bundle 
+اجرای فایل
+efbundle.exe
+اجرای فایل روی کانکشن استیرینگ
+efbundle.exe --connection "Data Source=.;Initial Catalog=DBEF6_2; integrated Security=true"
+نوشتن روی فایل قبلی
+dotnet ef migrations bundle --force 

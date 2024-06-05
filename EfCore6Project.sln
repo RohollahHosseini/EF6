@@ -5,22 +5,7 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EfCore6Feature", "EfCore6Project\EfCore6Feature.csproj", "{E70BD32B-DAF3-4436-8601-1361CF8CEF3D}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MigrationBundleCommand", "MigrationBundleCommand", "{561539F2-A0BC-405D-A45F-B628B8903B14}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\Developer\AppData\Local\Temp\Rar$DRa22828.5869\Src 21-04 What's new in EFCore6 - 2\Migration Bundles.txt = C:\Users\Developer\AppData\Local\Temp\Rar$DRa22828.5869\Src 21-04 What's new in EFCore6 - 2\Migration Bundles.txt
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CompiledModelCommand", "CompiledModelCommand", "{A67C03B7-0714-4B98-99E9-CFFD9187D037}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\Developer\Desktop\CompiledModel.txt = C:\Users\Developer\Desktop\CompiledModel.txt
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore6_ScaffoldingExistDatabase", "EFCore6_ScaffoldingExistDatabase\EFCore6_ScaffoldingExistDatabase.csproj", "{7149DB39-93B2-48B1-A3E8-9467123CC0EE}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ScaffoldingExistDatabaseCpmmand", "ScaffoldingExistDatabaseCpmmand", "{9D424C51-B125-4A34-8043-B90266528E8D}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\Developer\Desktop\ScafooldExistDatabase.txt = C:\Users\Developer\Desktop\ScafooldExistDatabase.txt
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
